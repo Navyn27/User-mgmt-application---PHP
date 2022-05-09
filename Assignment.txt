@@ -1,0 +1,135 @@
+I)
+A-
+
+a. Super computer
+b. Mainframe computer
+c. Desktop computer
+d. Desktop computer
+e. Laptop computer
+f. PDA
+g. Mobile phone
+
+B-
+
+1 - e
+2 - b
+3 - d
+4 - a
+5 - g
+6 - f
+7 - c
+
+C-
+
+1 - Compact Disk - Read Only Memory
+2 - Thin Film Transistor 
+3 - MegaByte
+4 - GigaHertz
+5 - 
+6 - Synchronous Dynamic Random Access Memory
+7 - 
+
+D- 
+
+1. 1GB
+2. A CD R/W Drive and a 200GB Hard Disk Drive
+3. The display screen is 19 inches
+4. The processor's speed is 3GHz
+5. The hard drive's capacity is 200GB
+6. The device runs A Microsoft Windows XP Professional version
+7. The computer has a speaker for sound output and a monitor for graphics output
+
+E- 
+
+1 - 8
+2 - 10
+3 - 1    
+4 - 9
+5 - 5
+6 - 3
+7 - 2
+8 - 4
+9 - 7
+10 - 6 
+
+F-
+
+1. A scanner is an electronic device that produces softcopies of  hardcopy documents.
+2. A printer is an electronic device that produces hardcopies of 
+softcopy documents.
+3. An ATM also known as an Automated Teller Machine
+is a machine that receives and gives out money to bank customers as
+part of a teller's tasks.
+4. PDA also known as a Personal Digital Assistant is a portable
+computerised device that is used to accomplish various activities easily.
+eg Graphic designing, keeping notes ...
+5. A hard disk drive is a storage device which stores data by 
+6. A supercomputer is a powerful, expensive and large computer that is 
+used to carry out hard tasks in research, Internet service delivery etc...
+7. Mainframe computers are less powerful,less expensive and smaller compared to super computers.
+They are used to carry out the same activities but which are less intensive.
+8.Barcodes are streaks of lines encoded to store information about a specific thing usually products.
+The stored information is displayed once the barcode is scanned.
+9.
+10.Memory refers to volatile and/or non-volatile storage that holds the most essential data needed by
+the computer and stored aside from the main storage device(HDD or SDD) 
+G- 
+
+1. in
+2. from, through
+3. into
+4. between
+5. of, To
+6. in, from, To
+7. onto
+8. from, through
+
+H-
+
+I- 
+
+processor type - Intel Core i5-1135G7
+processor speed - 2.42 GHz
+bus speed - 
+memory capacity - 8GB
+memory speed - 
+memory type - RAM
+hard disk capacity - 1TB
+screen size - 
+screen resolution
+optical drive speed - 
+
+J- 
+
+Shutdown your computer by choosing Shutdown
+from the Apple Menu or the Special Menu
+Unplug all the cables except the power cord 
+from your computer.
+If there are security screw ont eh vertical
+plate on the back of the computer remove them with
+a Philips screwdriver
+Release the two catches underneath and lift up to remove panel
+Pulling gently slide the tray out
+
+
+Dual Xeon 2.8GHz processor
+2.8 GHz
+800 MHz
+2GB
+400MHz
+ECC DDR2
+250GB
+19 inches
+1024 x 768
+48X
+
+ 
+1.6 GHz
+400 MHz
+1GB
+333 MHz
+DDR SDRAM
+60GB
+17 inches
+1440 x 900
+8X

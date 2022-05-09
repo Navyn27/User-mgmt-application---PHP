@@ -1,7 +1,7 @@
 
 <?php
 
-
+if(isset($_GET['UpdateId'])){
 $server = "localhost";
 $user = "sugirayvan";
 $passw = "GhostOfYvan";
@@ -19,10 +19,10 @@ if($connection){
 
 ?>
 
-<form action="update.php" method="POST">
+<form action="makeChanges.php" method="POST">
       <p>Update User</p>
        <label>User Id</label><br />
-      <input type="text" name="userId" value= "<?php print_r($data[0][0]); ?> "><br>
+      <input type="text" name="userId" value= "<?php echo $currentId ?> " readonly><br>
       <label>Firstname</label><br />
       <input type="text" name="fname" value= <?php print_r($data[0][1]); ?>><br>
       <label>Username</label><br />
@@ -31,10 +31,16 @@ if($connection){
       <input type="text" name="tele" value= <?php print_r($data[0][4]); ?>><br />
       <label>Email</label><br />
       <input type="text" name="email" value= <?php print_r($data[0][3]); ?>><br />
-      <input type="submit" name="submit" id="submit"/>
+      <input type="submit" name="submit" id="submit" value="Update Profile"/>
 </form>
 <img src="./undraw_mobile_user_re_xta4.svg" />
 <link rel="stylesheet" href="./revSignUp.css" />
+<?php
+}
+else{
+    echo "<h1>User's id wasn't provided";
+}
+?>
 <style>
 
     p{

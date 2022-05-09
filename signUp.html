@@ -11,7 +11,9 @@
   <body>
     <div id="main">
       <p>Register User</p>
-      <form action="signUp.php" method="POST">
+      <form action="signUp.php" method="POST" enctype="multipart/form-data">
+        <label>Role</label><br />
+        <input type="text" name="role" value="User" readonly /><br />
         <label>Firstname</label><br />
         <input type="text" name="fname" /><br />
         <label>Username</label><br />
@@ -22,7 +24,7 @@
         <input type="text" name="email" /><br />
         <label>Password</label><br />
         <input type="password" name="pass" /><br />
-        <input type="submit" name="submit" id="submit" /><br />
+        <input type="submit" name="submit" id="submit" value="SignUp" /><br />
       </form>
     </div>
     <img src="./undraw_mobile_user_re_xta4.svg" />
